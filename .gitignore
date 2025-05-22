@@ -1,0 +1,17 @@
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# große Datendateien & Excel-Exports
+*.csv
+*.xlsx
+
+# Cache-Verzeichnisse
+.cache/
+
+# lokale Notebooks-Backups
+*_Copy*.ipynb
+
+# explizit versionierte Dateien
+!spotify-streams-predictor.ipynb
+!README.md
+!requirements.txt
